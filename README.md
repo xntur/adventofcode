@@ -1,0 +1,1 @@
+just my answers to advent of code 2019 for algorithms
